@@ -19,6 +19,8 @@ Too many messages? Not relevant to your interests anymore? Devolving into spam? 
 
 ## Straight-up Unsubscribe
 
+### Through the List Manager Web Interface
+
 For most student-group lists and most semi-official CWRU lists, you can unsubscribe from the list directly. From the [`Your subscriptions`][list-subscriptions], find the list that you want to edit your subscription to and click on the name of the list (e.g. `example-list@case.edu`). In the left sidebar, there is an `Unsubscribe` button. Press it to remove your subscription to the list.
 
 Alternatively, if you already know the list you want to remove, login to the List Manager and then visit the URL:
@@ -28,5 +30,13 @@ https://lists.case.edu/wws/signoff/example-list
 ```
 
 Where you replace `example-list` with the correct name of the list you want to unsubscribe from.
+
+### Directly via Email
+
+Don't feel like opening the List Manager? No fear, it's possible to edit your subscription directly from your email!
+
+Send an email to `lists@case.edu` with the subject line `SIGNOFF example-list`.
+
+Or, this will open your email client directly: [Example Unsubscription](mailto:test@example.com?subject=SIGNOFF example-list)
 
 ## Can't Unsubscribe? There's a Solution
