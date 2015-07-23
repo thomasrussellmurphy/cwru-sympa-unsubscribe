@@ -7,7 +7,7 @@ Did you get an email from a list? Well, you're subscribed to it. Here's how you 
 
 1. Sign in using [CWRU SSO][sso] and your Case ID
 2. Visit the [CWRU Mailing List Manager][list-manager] and click the `Login` button next to the "Single Sign-On (SSO)" option
-3. View [your subscriptions][list-subscriptions] to see all of the lists your account is subscribed to
+3. View [`Your subscriptions`][list-subscriptions] to see all of the lists your account is subscribed to
 
 [sso]: https://login.case.edu/cas/login
 [list-manager]: https://lists.case.edu/
@@ -15,6 +15,18 @@ Did you get an email from a list? Well, you're subscribed to it. Here's how you 
 
 # You Don't Want To Receive Messages
 
+Too many messages? Not relevant to your interests anymore? Devolving into spam? Well, here are your solutions.
+
 ## Straight-up Unsubscribe
+
+For most student-group lists and most semi-official CWRU lists, you can unsubscribe from the list directly. From the [`Your subscriptions`][list-subscriptions], find the list that you want to edit your subscription to and click on the name of the list (e.g. `example-list@case.edu`). In the left sidebar, there is an `Unsubscribe` button. Press it to remove your subscription to the list.
+
+Alternatively, if you already know the list you want to remove, login to the List Manager and then visit the URL:
+
+```
+https://lists.case.edu/wws/signoff/example-list
+```
+
+Where you replace `example-list` with the correct name of the list you want to unsubscribe from.
 
 ## Can't Unsubscribe? There's a Solution
