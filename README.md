@@ -23,7 +23,7 @@ Too many messages? Not relevant to your interests anymore? Devolving into spam? 
 
 For most student-group lists and most semi-official CWRU lists, you can unsubscribe from the list directly. From the [`Your subscriptions`][list-subscriptions], find the list that you want to edit your subscription to and click on the name of the list (e.g. `example-list@case.edu`). In the left sidebar, there is an `Unsubscribe` button. Press it to remove your subscription to the list.
 
-Alternatively, if you already know the list you want to remove, login to the List Manager and then visit the URL:
+Alternatively, if you already know the list you want to remove, login to the List Manager and then edit the following URL.
 
 ```
 https://lists.case.edu/wws/signoff/example-list
@@ -39,4 +39,14 @@ Send an email to `lists@case.edu` with the subject line `SIGNOFF example-list`.
 
 Or, this will open your email client directly: [Example Unsubscription](mailto:test@example.com?subject=SIGNOFF example-list)
 
-## Can't Unsubscribe? There's a Solution
+## Can't Unsubscribe? There's a Solution: `Reception mode`
+
+Some official lists do not permit you to unsubscribe. That doesn't mean the list is free of annoying emails. They can be stopped, though.
+
+In the left sidebar of a list page on the List Manager, there is a `Subscriber Options` button. This settings page allows you to edit your `Reception mode` for the list. By default, you will have the `normal` mode active. To stop receiving messages from the subscribed list, change your mode to `no mail`.
+
+The settings page URL for a list has the following format.
+
+```
+https://lists.case.edu/wws/suboptions/example-list
+```
