@@ -1,6 +1,8 @@
 # cwru-sympa-unsubscribe
 Lessons in unsubscribing from lists in the CWRU Sympa Mailing List Manager.
 
+[![forthebadge](http://forthebadge.com/images/badges/powered-by-case-western-reserve.svg)](http://forthebadge.com)
+
 # So You're On A Mailing List
 
 Did you get an email from a list? Well, you're subscribed to it. Here's how you
